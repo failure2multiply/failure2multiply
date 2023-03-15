@@ -33,4 +33,4 @@ src="https://img.shields.io/github/followers/failure2multiply?logo=github&style=
 
 <a href="http://www.github.com/failure2multiply"><img src="https://github-readme-streak-stats.herokuapp.com/?user=failure2multiply&stroke=ffffff&background=1c1917&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/failure2multiply"><img src="https://activity-graph.herokuapp.com/graph?username=failure2multiply&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
