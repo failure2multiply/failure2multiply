@@ -8,7 +8,7 @@ Solution-minded Ethical Hacker, skilled at using various hacking methods to dete
 
 * 🌍  I'm based in Ireland
 * ✉️  You can contact me at [failure2multiply@gmail.com](mailto:failure2multiply@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning Python and Java
 
 <a href="https://www.github.com/failure2multiply" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/failure2multiply?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
