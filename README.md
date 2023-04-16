@@ -5,7 +5,6 @@ As a dedicated IT professional with a passion for cybersecurity,
 I am constantly honing my skills and staying up-to-date with the latest security trends and threats. 
 -------------------------------------------------
 
-An IT enthusiast trained in using various hacking methods to determine the security of systems, threats, or vulnerabilities.
 
 * 🌍  I'm based in Ireland/Poland
 * ✉️  You can contact me at [failure2multiply@gmail.com](mailto:failure2multiply@gmail.com)
