@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Working towards a career change in cyber security
 -------------------------------------------------
 
-Solution-minded Ethical Hacker, skilled at using various hacking methods to determine system safety, threats or weaknesses.
+An IT enthusiast trained in using various hacking methods to determine the security of systems, threats, or vulnerabilities.
 
-* 🌍  I'm based in Ireland
+* 🌍  I'm based in Ireland/Poland
 * ✉️  You can contact me at [failure2multiply@gmail.com](mailto:failure2multiply@gmail.com)
 * 🧠  I'm learning Python and Java
 
