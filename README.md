@@ -1,7 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bart J
 ==============================================================================================================================
 
-Working towards a career change in cyber security
+As a dedicated IT professional with a passion for cybersecurity, 
+I am constantly honing my skills and staying up-to-date with the latest security trends and threats. 
 -------------------------------------------------
 
 An IT enthusiast trained in using various hacking methods to determine the security of systems, threats, or vulnerabilities.
